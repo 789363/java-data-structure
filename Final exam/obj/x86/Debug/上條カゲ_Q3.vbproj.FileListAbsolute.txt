@@ -1,0 +1,9 @@
+C:\Users\Yuwei\Desktop\上條カゲ_Q3\obj\x86\Debug\上條カゲ_Q3.Form1.resources
+C:\Users\Yuwei\Desktop\上條カゲ_Q3\obj\x86\Debug\上條カゲ_Q3.vbproj.GenerateResource.Cache
+C:\Users\Yuwei\Desktop\上條カゲ_Q3\bin\Debug\上條カゲ_Q3.exe
+C:\Users\Yuwei\Desktop\上條カゲ_Q3\bin\Debug\上條カゲ_Q3.pdb
+C:\Users\Yuwei\Desktop\上條カゲ_Q3\bin\Debug\上條カゲ_Q3.xml
+C:\Users\Yuwei\Desktop\上條カゲ_Q3\obj\x86\Debug\上條カゲ_Q3.Resources.resources
+C:\Users\Yuwei\Desktop\上條カゲ_Q3\obj\x86\Debug\上條カゲ_Q3.exe
+C:\Users\Yuwei\Desktop\上條カゲ_Q3\obj\x86\Debug\上條カゲ_Q3.xml
+C:\Users\Yuwei\Desktop\上條カゲ_Q3\obj\x86\Debug\上條カゲ_Q3.pdb
